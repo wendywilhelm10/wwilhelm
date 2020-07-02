@@ -1,0 +1,32 @@
+h1 {
+	text-align: center;
+}
+
+table {
+	margin: auto;
+	font-size: 150px;
+	text-align: center;
+}
+
+td {
+	width: 200px;
+	height: 200px;
+}
+
+#rc00,
+#rc01,
+#rc10,
+#rc11 {
+	border-right: 1px solid black;
+	border-bottom: 1px solid black;
+}
+
+#rc02,
+#rc12 {
+	border-bottom: 1px solid black;
+}
+
+#rc20,
+#rc21 {
+	border-right: 1px solid black;
+}
