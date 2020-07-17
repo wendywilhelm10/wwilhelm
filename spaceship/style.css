@@ -1,0 +1,19 @@
+.container {
+	text-align: center;
+}
+
+body {
+	background-color: salmon;
+}
+
+input {
+	width: 200px;
+	height: 1.5em;
+	margin-bottom: 10px;
+	border-radius: 5px;
+	outline: none;
+}
+
+button {
+	width: 70px;
+}
